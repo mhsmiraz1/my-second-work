@@ -1,4 +1,43 @@
+body{
+    margin: 5%;
+    background-color: #f2f2f2;
+    font-family: 'Roboto Mono', monospace;
+}
+h3{
+    margin-top: 40px;
+}
 h1{
-    font-size: xx-large;
-    color: black;
+    color: rgba(235, 18, 36, 0.603);
+}
+p{
+    margin-bottom: 35px;
+}
+a{
+    text-decoration: none;
+    background-color: #d8ae396c;
+    padding: 10px 10px;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+a:visited{
+    color: rgb(24, 6, 6);
+}
+a:hover{
+    color: green;
+    transform: rotate(360);
+}
+.division-one{
+    display: flex;
+}
+.division-one img{
+    width: 80%;
+    transition: 0.3s;
+}
+.background-color{
+    background-color: #d8ae3921;
+    border-radius: 60%;
+}
+/* fart one done- next section comming */
+h2{
+    text-align: center;
 }
