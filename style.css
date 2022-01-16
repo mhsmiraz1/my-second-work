@@ -48,3 +48,8 @@ a:hover{
 .container{
     display: flex;
 }
+.part-of-last{
+    text-align: center;
+    background-color: #f8e6e6e8;
+    padding: 30px;
+}
